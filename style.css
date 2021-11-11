@@ -30,6 +30,7 @@ a:visited {
 .container {
     width: 600px;
     padding: 25px;
+    background-color: #f4f2f0;
     border-style: solid;
     border-width: 4px;
 }
