@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:visited {
+    color: #000000;
+}
+
+.container {
+    width: 600px;
+    padding: 25px;
+    border-style: solid;
+    border-width: 4px;
+}
+
+#logo {
+    width: 180px;
+}
