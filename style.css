@@ -8,9 +8,10 @@ html {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica;
     text-align: center;
     display: table-cell;
+    background-color: #b30738;
     vertical-align: middle;
 }
 
